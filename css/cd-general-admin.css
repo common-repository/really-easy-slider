@@ -1,0 +1,52 @@
+div.postbox.cd-postbox div.inside {
+	padding: 0 10px;	
+}
+
+div.postbox.cd-postbox h3 {
+	cursor:pointer;	
+}
+
+/*-----
+Form Input Styles
+-----*/
+
+div.radiobutton-set p {
+	margin:2px 0;
+}
+
+.checkbox, .radiobutton {
+	margin-right:10px;	
+}
+
+p.textinput label {
+	width:200px;
+	display: inline-block;
+}
+
+p.textinput input {
+	width:400px;	
+}
+
+div.textarea label {
+	vertical-align:top;
+	width:200px;
+	display: inline-block;
+}
+
+div.textarea textarea {
+	width:400px;
+	height:80px;	
+}
+
+p.select label {
+	display: inline-block;
+	width: 200px;	
+}
+
+.cd-text-right {
+	text-align:right;
+}
+
+#cd-res-thumbs .inside, #cd-res-advanced .inside, #cd-res-restore .inside {
+	display:none;	
+}
